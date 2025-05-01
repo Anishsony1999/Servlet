@@ -38,8 +38,7 @@ public class Sessions extends HttpServlet {
 		response.sendRedirect("welcome");
 		
 		
-		// 9442016203
-		
+	
 	}
 
 }
